@@ -4,7 +4,7 @@ library(readxl)
 library(writexl)
 
 # Read the Excel file
-data <- read_excel("C://Users//samik//OneDrive//Desktop//COD BTEX.xlsx", sheet = "Sheet1")
+data <- read_excel("C://.xlsx", sheet = "Sheet1")
 
 # Load necessary libraries
 library(readxl)
